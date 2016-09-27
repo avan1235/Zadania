@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1458740800 source:e:\dysk mega\c++\zadania\wskaüniki\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+

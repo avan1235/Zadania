@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1447957933 source:c:\users\maciek\desktop\zadania\ci¹g liczb\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+

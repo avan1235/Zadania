@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1449000501 source:c:\users\maciek\desktop\zadania\sortowania\main.cpp
+	<iostream>
+	<time.h>
+	<cstdlib>
+

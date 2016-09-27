@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1459288803 source:e:\dysk mega\c++\zadania\sortowanie posortowanych\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<sstream>
+	"cstdlib"
+

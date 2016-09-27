@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1474983121 source:e:\dysk mega\c++\zadania\algorytm grahama\main.cpp
+	<iostream>
+	<vector>
+	<stack>
+

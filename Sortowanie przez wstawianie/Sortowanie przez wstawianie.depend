@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1448745609 source:c:\users\maciek\desktop\zadania\sortowanie przez wstawianie\main.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+

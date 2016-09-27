@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1448631965 source:c:\users\maciek\desktop\zadania\konsola\main.cpp
+	<windows.h>
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+

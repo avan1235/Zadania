@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1449608794 source:c:\users\maciek\desktop\zadania\labirynt\main.cpp
+	<windows.h>
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<fstream>
+	<sstream>
+
+1449850709 source:e:\dysk mega\c++\zadania\labirynt\main.cpp
+	<windows.h>
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<fstream>
+	<sstream>
+

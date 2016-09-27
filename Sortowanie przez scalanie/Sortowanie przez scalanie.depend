@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1457275942 source:e:\dysk mega\c++\zadania\sortowanie przez scalanie\main.cpp
+	<iostream>
+	<time.h>
+	<cstdlib>
+	<cmath>
+

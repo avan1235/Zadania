@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1448749130 source:c:\users\maciek\desktop\zadania\królowe\main.cpp
+	<iostream>
+	<vector>
+	<cmath>
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1448660687 source:c:\users\maciek\desktop\zadania\wspó³rzêdne\main.cpp
+	<iostream>
+	<windows.h>
+	<cstdlib>
+
+1448660687 source:e:\dysk mega\c++\zadania\wspó³rzêdne\main.cpp
+	<iostream>
+	<windows.h>
+	<cstdlib>
+

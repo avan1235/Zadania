@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1447961037 source:c:\users\maciek\desktop\zadania\gracze\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstdlib>
+
